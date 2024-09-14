@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import './styles.css'
+import './style.css'
 import Card from '../../components/Card'
 
 export default function ApiCat() {
@@ -45,3 +45,4 @@ export default function ApiCat() {
         </div>
     )   
 }
+

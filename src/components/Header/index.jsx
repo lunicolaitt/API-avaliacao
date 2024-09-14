@@ -14,7 +14,7 @@ export default function Header() {
                         <li>Sobre</li>
                     </Link>
                     <Link to="/cat">
-                        <li>Personagens</li>
+                        <li>Gatos</li>
                     </Link>
                 </ol>
             </nav>
