@@ -3,7 +3,7 @@ import './style.css'
 import Card from '../../components/Card'
 
 export default function ApiCat() {
-    const [ conteudo, setConteudo ] = useState(<>Carregando...</>)
+    const [ conteudo, setConteudo ] = useState(<>Carregando</>)
 
     async function getCharacters() {
         const reqOptions = {
